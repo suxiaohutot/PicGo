@@ -115,20 +115,6 @@ npm run electron:build
 - [flutter-picgo](https://github.com/PicGo/flutter-picgo)：PicGo 的手机版 App（支持 Android 和 iOS ）。
 - [PicHoro](https://github.com/Kuingsmile/PicHoro)：另一款支持 PicGo 配置的手机版 App（暂时只支持 Android）。
 
-## 赞助
-
-如果你喜欢 PicGo 并且它对你确实有帮助，欢迎给我打赏一杯咖啡哈~
-
-支付宝：
-
-![](https://user-images.githubusercontent.com/12621342/34188165-e7cdf372-e56f-11e7-8732-1338c88b9bb7.jpg)
-
-微信：
-
-![](https://user-images.githubusercontent.com/12621342/34188201-212cda84-e570-11e7-9b7a-abb298699d85.jpg)
-
-## License
-
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2017 - Now Molunerfinn
